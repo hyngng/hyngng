@@ -1,5 +1,4 @@
-## Welcome
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developing;Photography;Drawing;And+many+other+stuffs)](https://git.io/typing-svg)
 
 <!--
 **hynrng/hynrng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
