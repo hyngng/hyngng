@@ -1,4 +1,5 @@
-![hynrng_black](https://raw.githubusercontent.com/hynrng/hynrng.github.io.resources/master/info/hynrng_black.png)
+## Welcome
+
 
 <!--
 **hynrng/hynrng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
