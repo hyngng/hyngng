@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Developing;Photography;Drawing;And+many+other+stuffs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=750&lines=Developing;Photography;Drawing;And+many+other+stuffs)](https://git.io/typing-svg)
 
 <!--
 **hynrng/hynrng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
