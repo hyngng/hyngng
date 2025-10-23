@@ -1,7 +1,9 @@
 
-<img width="100%" height="1500" alt="Mask group" src="https://github.com/user-attachments/assets/faa51d89-d256-47c8-8e38-04ec16bb0ffb" />
+[<img width="100%" height="1500" alt="Mask group" src="https://github.com/user-attachments/assets/faa51d89-d256-47c8-8e38-04ec16bb0ffb" />](https://hyngng.github.io)
 
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Development;Photography;Drawing;And+many+other+stuffs)](https://git.io/typing-svg)
+-->
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hynrng&layout=compact)
