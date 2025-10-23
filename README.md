@@ -1,5 +1,5 @@
 
-[<img width="4000" height="1180" alt="Mask group (1)" src="https://github.com/user-attachments/assets/6923457b-aed4-42c3-8414-668189e49b06" />](https://hyngng.github.io)
+[<img width="5730" height="3000" alt="240515-알감자 (1)" src="https://github.com/user-attachments/assets/868621f3-8677-431c-95c0-933674b4c61b" />](https://hyngng.github.io)
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Development;Photography;Drawing;And+many+other+stuffs)](https://git.io/typing-svg)
