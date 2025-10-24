@@ -1,5 +1,5 @@
 
-[<img width="6000" height="3000" alt="일러스트" src="https://github.com/user-attachments/assets/acf5e67c-8c33-4aad-b24a-025f5062b1e6" />](https://hyngng.github.io)
+[<img width="6144" height="2048" alt="Group 1" src="https://github.com/user-attachments/assets/c3db7351-cc2f-4073-9e76-3420c379ad42" />](https://hyngng.github.io)
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Development;Photography;Drawing;And+many+other+stuffs)](https://git.io/typing-svg)
