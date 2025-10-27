@@ -1,8 +1,7 @@
 
 <img width="9000" height="3000" alt="banner-noir-twitter" src="https://github.com/user-attachments/assets/154df7d6-a1a1-4025-9d2a-5ab19ca1584c" />
 
-<img width="9000" height="3000" alt="banner-blog-white" src="https://github.com/user-attachments/assets/2903e1f2-83a7-49dc-9b31-4cdf689400f9" />
-
+<img width="9000" height="3000" alt="banner-beer-twitter" src="https://github.com/user-attachments/assets/63b3ab2a-a453-4310-9cc4-e015e0308640" />
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Development;Photography;Drawing;And+many+other+stuffs)](https://git.io/typing-svg)
