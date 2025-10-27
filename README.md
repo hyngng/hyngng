@@ -1,6 +1,6 @@
 
-<img width="10000" height="3000" alt="banner-noir-reddit" src="https://github.com/user-attachments/assets/5acd3b81-0e5b-4a87-8878-926d532a1d2d" />
-<img width="10000" height="3000" alt="banner-beer-reddit" src="https://github.com/user-attachments/assets/97bf1993-d1e4-4c08-891a-7c92e7bc1575" />
+<img width="5333" height="3000" alt="banner-beer-pinterest" src="https://github.com/user-attachments/assets/e6d24706-35b2-4645-920d-e3c68caaa510" />
+<img width="9000" height="3000" alt="banner-beer-twitter" src="https://github.com/user-attachments/assets/f5c4c54b-34e7-49ef-a751-1c4c85a268f3" />
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Development;Photography;Drawing;And+many+other+stuffs)](https://git.io/typing-svg)
