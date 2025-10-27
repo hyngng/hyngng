@@ -1,5 +1,5 @@
 
-<img width="9000" height="3000" alt="banner-beer-twitter" src="https://github.com/user-attachments/assets/ef8a0905-bd24-4144-bd4f-9f9c5f9cd1af" />
+<img width="5333" height="3000" alt="banner-beer-pinterest" src="https://github.com/user-attachments/assets/083aef32-5661-4e84-b1ff-06106031bb45" />
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Development;Photography;Drawing;And+many+other+stuffs)](https://git.io/typing-svg)
