@@ -1,5 +1,5 @@
 
-[<img width="5120" height="2048" alt="Group 1 (1)" src="https://github.com/user-attachments/assets/93011737-c958-413a-9628-3b04b537ec13" />](https://hyngng.github.io)
+<img width="10000" height="3000" alt="banner-beer-reddit" src="https://github.com/user-attachments/assets/97bf1993-d1e4-4c08-891a-7c92e7bc1575" />
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Development;Photography;Drawing;And+many+other+stuffs)](https://git.io/typing-svg)
