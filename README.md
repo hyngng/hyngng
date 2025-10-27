@@ -1,4 +1,5 @@
 
+<img width="10000" height="3000" alt="banner-noir-reddit" src="https://github.com/user-attachments/assets/5acd3b81-0e5b-4a87-8878-926d532a1d2d" />
 <img width="10000" height="3000" alt="banner-beer-reddit" src="https://github.com/user-attachments/assets/97bf1993-d1e4-4c08-891a-7c92e7bc1575" />
 
 <!--
