@@ -1,5 +1,5 @@
 
-![banner-noir-twitter](https://github.com/user-attachments/assets/e2d5733c-6302-419d-a2a2-d318ee02be64)
+<img width="9000" height="3000" alt="banner-noir-twitter" src="https://github.com/user-attachments/assets/154df7d6-a1a1-4025-9d2a-5ab19ca1584c" />
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Development;Photography;Drawing;And+many+other+stuffs)](https://git.io/typing-svg)
